@@ -7,7 +7,7 @@ The project focuses on improving accessibility and understanding of environmenta
 
 Project Link
 
-View ArcGIS StoryMap Project
+https://storymaps.arcgis.com/stories/a6a473f5745042daa2ad399daf9b8a62
 
 Features
 Interactive ArcGIS StoryMap with map-based storytelling
